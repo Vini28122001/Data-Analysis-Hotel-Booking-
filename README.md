@@ -1,4 +1,4 @@
-#Data-Analysis-Hotel-Booking-
+
  #Importing Libraries
 import pandas as pd
 import numpy as np
@@ -61,3 +61,8 @@ df['market_segment'].value_counts(normalized = True)
 cancelled_data['market_segment'].value_counts(normalize = True)
 
 
+1. ![h1](https://github.com/Vini28122001/Data-Analysis-Hotel-Booking-/assets/149174627/8ef389c2-935e-4828-850f-a5b0d1cffce6)
+2. 
+3. ![h2](https://github.com/Vini28122001/Data-Analysis-Hotel-Booking-/assets/149174627/404ff009-dfb1-4589-8bc4-acfe5b3a0ca6)
+4. 
+5. ![h3](https://github.com/Vini28122001/Data-Analysis-Hotel-Booking-/assets/149174627/b4ee97a7-bda0-47e9-945c-2faef782cc6c)
